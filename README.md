@@ -29,22 +29,11 @@ In the last few months I've built a burger shop with a real shopping cart, an an
 
 ### 🚀 Projects worth a look
 
-<div align="center">
+**🍔 [DevBurger](https://github.com/Fabioalx29/Projeto-Hamburgueria)** — a responsive menu page with a working shopping cart: add items, adjust quantities, see the running total, and check out straight through WhatsApp. `HTML` `CSS` `JavaScript` · [Live demo →](https://fabioalx29.github.io/Projeto-Hamburgueria/)
 
-<a href="https://github.com/Fabioalx29/Projeto-Hamburgueria">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabioalx29&repo=Projeto-Hamburgueria&theme=github_dark&hide_border=true"/>
-</a>
-<a href="https://github.com/Fabioalx29/Projeto-React-Tailwind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabioalx29&repo=Projeto-React-Tailwind&theme=github_dark&hide_border=true"/>
-</a>
-<br>
-<a href="https://github.com/Fabioalx29/Projeto-React">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabioalx29&repo=Projeto-React&theme=github_dark&hide_border=true"/>
-</a>
+**⚛️ [Projeto-React-Tailwind](https://github.com/Fabioalx29/Projeto-React-Tailwind)** — a front-end project built with React and styled with Tailwind CSS. `React` `Tailwind CSS`
 
-</div>
-
-**🍔 DevBurger** — a responsive menu page with a working shopping cart: add items, adjust quantities, see the running total, and check out straight through WhatsApp. [Live demo →](https://fabioalx29.github.io/Projeto-Hamburgueria/)
+**⚛️ [Projeto-React](https://github.com/Fabioalx29/Projeto-React)** — a front-end project built with React. `React` `JavaScript`
 
 See more on my [**portfolio →**](https://fabioalx29.github.io/Fabioalx-portifolio/)
 
