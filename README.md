@@ -10,7 +10,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👋 About me
+###  About me
 
 I'm a high school senior who fell in love with turning static pages into things people actually enjoy clicking through. No computer science degree yet, no fancy job title — just a habit of shipping a new project every time I learn something new.
 
