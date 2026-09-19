@@ -10,7 +10,7 @@
 <tr>
 <td width="60%" valign="top">
 
-###  About me
+### 👋 About me
 
 I'm a high school senior who fell in love with turning static pages into things people actually enjoy clicking through. No computer science degree yet, no fancy job title — just a habit of shipping a new project every time I learn something new.
 
@@ -20,7 +20,7 @@ In the last few months I've built a burger shop with a real shopping cart, an an
 
 </td>
 <td width="40%" align="center">
-  <img src="https://fabioalx29.github.io/Fabioalx-portifolio/WhatsApp%20Image%202026-03-15%20at%2023.14.13.jpg" width="220" style="border-radius: 12px;"/>
+  <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/WhatsApp%20Image%202026-03-15%20at%2023.14.13.jpg" width="220" style="border-radius: 12px;"/>
 </td>
 </tr>
 </table>
@@ -29,9 +29,20 @@ In the last few months I've built a burger shop with a real shopping cart, an an
 
 ### 🚀 Projects worth a look
 
+<div align="center">
+
 <a href="https://github.com/Fabioalx29/Projeto-Hamburgueria">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabioalx29&repo=Projeto-Hamburgueria&theme=github_dark&hide_border=true"/>
 </a>
+<a href="https://github.com/Fabioalx29/Projeto-React-Tailwind">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabioalx29&repo=Projeto-React-Tailwind&theme=github_dark&hide_border=true"/>
+</a>
+<br>
+<a href="https://github.com/Fabioalx29/Projeto-React">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabioalx29&repo=Projeto-React&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
 
 **🍔 DevBurger** — a responsive menu page with a working shopping cart: add items, adjust quantities, see the running total, and check out straight through WhatsApp. [Live demo →](https://fabioalx29.github.io/Projeto-Hamburgueria/)
 
@@ -50,7 +61,7 @@ See everything together on my [**portfolio →**](https://fabioalx29.github.io/F
 ### 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" height="50"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" height="50"/>
