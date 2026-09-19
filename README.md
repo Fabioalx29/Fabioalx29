@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:1E40AF&height=200&section=header&text=Fabio%20Alexsander&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer&descAlignY=58&descSize=20"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+interfaces+one+detail+at+a+time;HTML+%7C+CSS+%7C+JavaScript;Open+to+my+first+opportunity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+interfaces+one+detail+at+a+time;HTML+%7C+CSS+%7C+JavaScript;Open+to+my+first+opportunity" />
 </div>
 
 <br>
@@ -46,15 +46,7 @@ In the last few months I've built a burger shop with a real shopping cart, an an
 
 **🍔 DevBurger** — a responsive menu page with a working shopping cart: add items, adjust quantities, see the running total, and check out straight through WhatsApp. [Live demo →](https://fabioalx29.github.io/Projeto-Hamburgueria/)
 
-<br>
-
-| Project | What it's about |
-|---|---|
-| 🔐 [**Modern Login Interface**](https://fabioalx29.github.io/Fabioalx-portifolio/index2.html) | A clean, centered login screen with smooth visual effects — built to practice usability details most tutorials skip. |
-| ✨ [**Interactive UI Showcase**](https://fabioalx29.github.io/Fabioalx-portifolio/index3.html) | A page that reacts to the visitor — images and elements shift with interaction instead of sitting still. |
-| 🧳 [**Interactive Travel Experience**](https://fabioalx29.github.io/Fabioalx-portifolio/index4.html) | An animated, JavaScript-driven page built to explore motion and responsiveness beyond the basics. |
-
-See everything together on my [**portfolio →**](https://fabioalx29.github.io/Fabioalx-portifolio/)
+See more on my [**portfolio →**](https://fabioalx29.github.io/Fabioalx-portifolio/)
 
 ---
 
