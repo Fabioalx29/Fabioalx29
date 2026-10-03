@@ -10,7 +10,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👋 About me
+###  About me
 
 I'm a front-end developer in training who loves turning static pages into things people actually enjoy using. I'm finishing a technical program in Systems Development at Proz Educação (expected completion: December 2026), and I build a new project every time I learn something new.
 
@@ -28,6 +28,54 @@ In the last few months I've built a burger shop with a real shopping cart, an Ap
 ---
 
 ### 🚀 Projects worth a look
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <a href="https://fabioalx29.github.io/Projeto-Clima-/">
+    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto%20pj%20clima.png" alt="Weatherly — weather dashboard" width="100%"/>
+  </a>
+  <br><sub><b>Weatherly</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://fabioalx29.github.io/Projeto-React-Tailwind/">
+    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto%20projeto%20iph.png" alt="iPhone 17 Pro landing page" width="100%"/>
+  </a>
+  <br><sub><b>iPhone 17 Pro</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://fabioalx29.github.io/Projeto-Hamburgueria/">
+    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto2.png" alt="DevBurger — burger shop with cart" width="100%"/>
+  </a>
+  <br><sub><b>DevBurger</b></sub>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td align="center" width="33%" valign="top">
+  <a href="https://fabioalx29.github.io/Projeto-Clima-/">
+    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto%20pj%20clima.png" alt="Weatherly — weather dashboard" width="100%"/>
+  </a>
+  <br/><sub><b>Weatherly</b><br/>React · TypeScript · API</sub>
+</td>
+<td align="center" width="33%" valign="top">
+  <a href="https://fabioalx29.github.io/Projeto-React-Tailwind/">
+    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto%20projeto%20iph.png" alt="iPhone 17 Pro — landing page" width="100%"/>
+  </a>
+  <br/><sub><b>iPhone 17 Pro</b><br/>React · Tailwind CSS</sub>
+</td>
+<td align="center" width="33%" valign="top">
+  <a href="https://fabioalx29.github.io/Projeto-Hamburgueria/">
+    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto2.png" alt="DevBurger — burger shop with cart" width="100%"/>
+  </a>
+  <br/><sub><b>DevBurger</b><br/>React · Tailwind CSS · JavaScript</sub>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Click any preview to open the live demo.</sub></p>
 
 **🌦️ [Weatherly](https://github.com/Fabioalx29/Projeto-Clima-)** — a weather dashboard where you can search any city and see current conditions, an hourly forecast and the next 7 days, with a temperature chart. Uses the real Open-Meteo API with typed responses, saves recent searches, and handles errors like city not found or no connection. `React` `TypeScript` `Tailwind CSS` `Recharts` · [Live demo →](https://fabioalx29.github.io/Projeto-Clima-/)
 
