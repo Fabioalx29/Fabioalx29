@@ -1,7 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:1E40AF&height=200&section=header&text=Fabio%20Alexsander&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer&descAlignY=58&descSize=20"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+interfaces+one+detail+at+a+time;React+%7C+TypeScript+%7C+Tailwind+CSS;Open+to+my+first+opportunity" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+interfaces+one+detail+at+a+time;React+%7C+TypeScript+%7C+Tailwind+CSS;Open+to+my+first+opportunity" />
+
 </div>
 
 <br>
@@ -10,110 +12,73 @@
 <tr>
 <td width="60%" valign="top">
 
-###  About me
+### 👨‍💻 About me
 
-I'm a front-end developer in training who loves turning static pages into things people actually enjoy using. I'm finishing a technical program in Systems Development at Proz Educação (expected completion: December 2026), and I build a new project every time I learn something new.
+I'm a front-end developer in training who enjoys turning ideas into interfaces that are practical, responsive and enjoyable to use.
 
-In the last few months I've built a burger shop with a real shopping cart, an Apple-style product landing page, and a weather dashboard powered by a real API — each one an excuse to get better at layout, state management, and writing cleaner code than the last time.
+I'm currently completing a **Technical Program in Systems Development at Proz Educação**, with expected completion in **December 2026**.
 
-**Right now I'm looking for my first internship or junior front-end role** — a team willing to trade some mentorship for someone who shows up curious and ships fast.
+During my studies, I've been building projects with **React, TypeScript, JavaScript, Tailwind CSS and APIs**, while also exploring mobile development with **React Native and Expo**.
+
+I believe the best way to learn is by building. Each project I create is an opportunity to improve my code, understand new concepts and pay more attention to the details that make an interface better.
+
+**I'm currently looking for my first internship or junior front-end opportunity**, where I can contribute, learn from experienced developers and continue growing professionally.
 
 </td>
+
 <td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/WhatsApp%20Image%202026-03-15%20at%2023.14.13.jpg" width="220" style="border-radius: 12px;"/>
+
+<img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/WhatsApp%20Image%202026-03-15%20at%2023.14.13.jpg" width="220"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 🚀 Projects worth a look
+## 🚀 Featured Projects
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
-  <a href="https://fabioalx29.github.io/Projeto-Clima-/">
-    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto%20pj%20clima.png" alt="Weatherly — weather dashboard" width="100%"/>
-  </a>
-  <br><sub><b>Weatherly</b></sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://fabioalx29.github.io/Projeto-React-Tailwind/">
-    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto%20projeto%20iph.png" alt="iPhone 17 Pro landing page" width="100%"/>
-  </a>
-  <br><sub><b>iPhone 17 Pro</b></sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://fabioalx29.github.io/Projeto-Hamburgueria/">
-    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto2.png" alt="DevBurger — burger shop with cart" width="100%"/>
-  </a>
-  <br><sub><b>DevBurger</b></sub>
-</td>
-</tr>
-</table>
 
-<table align="center">
-<tr>
 <td align="center" width="33%" valign="top">
-  <a href="https://fabioalx29.github.io/Projeto-Clima-/">
-    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto%20pj%20clima.png" alt="Weatherly — weather dashboard" width="100%"/>
-  </a>
-  <br/><sub><b>Weatherly</b><br/>React · TypeScript · API</sub>
+
+<a href="https://fabioalx29.github.io/Projeto-Clima-/">
+<img src="./weatherly.png" alt="Weatherly - weather dashboard" width="100%"/>
+</a>
+
+<br>
+
+<strong>🌦️ Weatherly</strong>
+
+<br>
+
+<sub>React · TypeScript · Tailwind CSS · API</sub>
+
+<br><br>
+
+<sub>
+Weather dashboard powered by the Open-Meteo API, featuring city search, current conditions, hourly forecast, 7-day forecast, temperature charts and recent searches.
+</sub>
+
+<br><br>
+
+<a href="https://fabioalx29.github.io/Projeto-Clima-/">
+<strong>Live Demo →</strong>
+</a>
+
 </td>
+
 <td align="center" width="33%" valign="top">
-  <a href="https://fabioalx29.github.io/Projeto-React-Tailwind/">
-    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto%20projeto%20iph.png" alt="iPhone 17 Pro — landing page" width="100%"/>
-  </a>
-  <br/><sub><b>iPhone 17 Pro</b><br/>React · Tailwind CSS</sub>
-</td>
-<td align="center" width="33%" valign="top">
-  <a href="https://fabioalx29.github.io/Projeto-Hamburgueria/">
-    <img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/public/img/foto2.png" alt="DevBurger — burger shop with cart" width="100%"/>
-  </a>
-  <br/><sub><b>DevBurger</b><br/>React · Tailwind CSS · JavaScript</sub>
-</td>
-</tr>
-</table>
 
-<p align="center"><sub>Click any preview to open the live demo.</sub></p>
+<a href="https://fabioalx29.github.io/Projeto-React-Tailwind/">
+<img src="./iphone17.png" alt="iPhone 17 Pro landing page" width="100%"/>
+</a>
 
-**🌦️ [Weatherly](https://github.com/Fabioalx29/Projeto-Clima-)** — a weather dashboard where you can search any city and see current conditions, an hourly forecast and the next 7 days, with a temperature chart. Uses the real Open-Meteo API with typed responses, saves recent searches, and handles errors like city not found or no connection. `React` `TypeScript` `Tailwind CSS` `Recharts` · [Live demo →](https://fabioalx29.github.io/Projeto-Clima-/)
+<br>
 
-**📱 [iPhone 17 Pro — Landing Page](https://github.com/Fabioalx29/Projeto-React-Tailwind)** — an Apple-inspired product page where each section (hero, specs, gallery) is a reusable React component, with a responsive layout and smooth transitions. `React` `Tailwind CSS` · [Live demo →](https://fabioalx29.github.io/Projeto-React-Tailwind/)
+<strong>📱 iPhone 17 Pro</strong>
 
-**🍔 [DevBurger](https://github.com/Fabioalx29/Projeto-Hamburgueria)** — a responsive menu page with a working shopping cart: add items, adjust quantities, see the running total, and check out straight through WhatsApp. `React` `Tailwind CSS` `JavaScript` · [Live demo →](https://fabioalx29.github.io/Projeto-Hamburgueria/)
+<br>
 
-**🐶 Pet Shop App** *(academic project)* — a mobile app built during my course with React Native and Expo: accessories catalog with search, shopping cart, responsible adoption form and donations form. Demo video on my [portfolio →](https://fabioalx29.github.io/Fabioalx-portifolio/#formacao)
-
-See more on my [**portfolio →**](https://fabioalx29.github.io/Fabioalx-portifolio/)
-
----
-
-### 🛠 Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,python" height="50"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vite,vscode,git,github,figma" height="50"/>
-</p>
-
----
-
-### 📬 Let's talk
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/fabio-alexsander-811b90358">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:fabioalexsander290990@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://fabioalx29.github.io/Fabioalx-portifolio/">
-    <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</div>
-
-<p align="center"><sub>If you're hiring for an internship or junior role — or just want to talk about front-end — my inbox is open.</sub></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:1E40AF&height=120&section=footer"/>
+<sub>React · Tail
