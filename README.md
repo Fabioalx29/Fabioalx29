@@ -163,6 +163,7 @@ The project simulates a pet shop platform and includes:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vite,nodejs,git,github,vscode,figma" height="50"/>
 </p>
+
 ---
 
 ## 📚 Currently Learning
