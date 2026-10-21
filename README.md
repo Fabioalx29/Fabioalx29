@@ -32,6 +32,7 @@ I believe the best way to learn is by building. Each project I create is an oppo
 </td>
   </tr>
 </table>
+
 ---
 
 ## 🚀 Featured Projects
