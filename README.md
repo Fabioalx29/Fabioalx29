@@ -28,7 +28,13 @@ I believe the best way to learn is by building. Each project I create is an oppo
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx-portifolio/main/WhatsApp%20Image%202026-03-15%20at%2023.14.13.jpg" width="220"/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx29/main/foto-perfil.jpg.jpeg"
+    width="220"
+    alt="Foto de perfil do Fabio"
+  />
+</p>
 
 </td>
 </tr>
