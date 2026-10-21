@@ -8,9 +8,9 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+<table>
+  <tr>
+    <td width="60%" valign="middle">
 
 ### 👨‍💻 About me
 
@@ -25,21 +25,13 @@ I believe the best way to learn is by building. Each project I create is an oppo
 **I'm currently looking for my first internship or junior front-end opportunity**, where I can contribute, learn from experienced developers and continue growing professionally.
 
 </td>
+    <td width="40%" align="center" valign="middle">
 
-<td width="40%" align="center">
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx29/main/foto-perfil.jpg.jpeg"
-    width="220"
-    alt="Foto de perfil do Fabio"
-  />
-</p>
+<img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx29/main/foto-perfil.jpg.jpeg" width="100%" alt="Fabio Alexsander" />
 
 </td>
-</tr>
+  </tr>
 </table>
-
 ---
 
 ## 🚀 Featured Projects
