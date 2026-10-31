@@ -146,17 +146,17 @@ A mobile application developed during my Systems Development program, simulating
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fabioalx29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/Fabioalx29">
+<img src="https://img.shields.io/badge/GitHub-Fabioalx29-172554?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabioalx29&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
 
-<br>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabioalx29&theme=tokyonight&hide_border=true" />
+*Consistent learning. Continuous improvement.*
 
 </div>
 
