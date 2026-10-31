@@ -151,23 +151,25 @@ A mobile application developed during my Systems Development program, simulating
 
 ---
 
-## 📊 GitHub Activity
+## ⚡ Developer Activity
 
 <div align="center">
 
-<a href="https://github.com/Fabioalx29">
-<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-172554?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/Fabioalx29?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img width="100%" src="https://ghchart.rshah.org/2563eb/Fabioalx29" alt="GitHub Contributions" />
 
 <br><br>
 
-**Building. Learning. Improving.**
+<img src="https://img.shields.io/github/followers/Fabioalx29?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB&labelColor=0D1117" />
 
-<sub>Explore my repositories and follow my development journey.</sub>
+<img src="https://img.shields.io/github/stars/Fabioalx29?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=2563EB&labelColor=0D1117" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite,git" />
+
+<br><br>
+
+<sub>BUILDING DIGITAL EXPERIENCES · ONE COMMIT AT A TIME</sub>
 
 </div>
 
