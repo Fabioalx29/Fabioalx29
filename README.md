@@ -1,218 +1,199 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:1E40AF&height=200&section=header&text=Fabio%20Alexsander&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer&descAlignY=58&descSize=20"/>
+ <!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:172554,100:2563EB&height=210&section=header&text=Fabio%20Alexsander&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=FRONT-END%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+interfaces+one+detail+at+a+time;React+%7C+TypeScript+%7C+Tailwind+CSS;Open+to+my+first+opportunity" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+interfaces+one+detail+at+a+time;React+%7C+TypeScript+%7C+Tailwind+CSS;Focused+on+creating+better+web+experiences" />
 
 <br>
 
-<table>
-  <tr>
-    <td width="60%" valign="middle">
+<a href="https://www.linkedin.com/in/fabio-alexsander-811b90358">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://fabioalx29.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:fabioalexsander290990@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-### 👨‍💻 About me
+</div>
 
-I'm a front-end developer in training who enjoys turning ideas into interfaces that are practical, responsive and enjoyable to use.
+---
 
-I'm currently completing a **Technical Program in Systems Development at Proz Educação**, with expected completion in **December 2026**.
+## 👨‍💻 About Me
 
-During my studies, I've been building projects with **React, TypeScript, JavaScript, Tailwind CSS and APIs**, while also exploring mobile development with **React Native and Expo**.
+<img align="right" width="190" src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx29/main/foto-perfil.jpg.jpeg" alt="Fabio Alexsander" />
 
-I believe the best way to learn is by building. Each project I create is an opportunity to improve my code, understand new concepts and pay more attention to the details that make an interface better.
+I'm a **Front-End Developer in training** passionate about building modern, responsive and user-friendly web interfaces.
 
-**I'm currently looking for my first internship or junior front-end opportunity**, where I can contribute, learn from experienced developers and continue growing professionally.
+I'm currently pursuing a **Technical Program in Systems Development at Proz Educação**, with expected completion in **December 2026**.
 
-</td>
-    <td width="40%" align="center" valign="middle">
+My experience includes building projects with **React, TypeScript, JavaScript, Tailwind CSS and APIs**, as well as exploring mobile development with React Native and Expo.
 
-<img src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx29/main/foto-perfil.jpg.jpeg" width="100%" alt="Fabio Alexsander" />
+I enjoy turning ideas into functional digital experiences, focusing on visual consistency, reusable components, responsive layouts and code quality.
 
-</td>
-  </tr>
-</table>
+**Currently looking for my first Front-End internship or Junior Developer opportunity.**
+
+<br clear="right"/>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table align="center">
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="33%" valign="top">
-
-<a href="https://fabioalx29.github.io/Projeto-Clima-/">
-<img src="./weatherly.png" alt="Weatherly - weather dashboard" width="100%"/>
-</a>
-
-<br>
-
-<strong>🌦️ Weatherly</strong>
-
-<br>
-
-<sub>React · TypeScript · Tailwind CSS · API</sub>
-
-<br><br>
-
-<sub>
-Weather dashboard powered by the Open-Meteo API, featuring city search, current conditions, hourly forecast, 7-day forecast, temperature charts and recent searches.
-</sub>
-
-<br><br>
+### 🌦️ Weatherly
 
 <a href="https://fabioalx29.github.io/Projeto-Clima-/">
-<strong>Live Demo →</strong>
+<img src="./weatherly.png" width="100%" alt="Weatherly project preview" />
 </a>
 
-</td>
+**Weather Dashboard**
 
-<td align="center" width="33%" valign="top">
+A weather application powered by the Open-Meteo API, featuring city search, current weather conditions, hourly and 7-day forecasts, temperature charts and recent searches.
+
+**Stack:** React · TypeScript · Tailwind CSS · API
+
+<a href="https://fabioalx29.github.io/Projeto-Clima/">Live Demo →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 iPhone 17 Pro
 
 <a href="https://fabioalx29.github.io/Projeto-React-Tailwind/">
-<img src="./iphone17.png" alt="iPhone 17 Pro landing page" width="100%"/>
+<img src="./iphone17.png" width="100%" alt="iPhone 17 Pro project preview" />
 </a>
 
-<br>
+**Product Landing Page**
 
-<strong>📱 iPhone 17 Pro</strong>
+A responsive product landing page inspired by Apple's visual language, featuring reusable components, product specifications, smooth transitions and modern layouts.
 
-<br>
+**Stack:** React · Tailwind CSS · JavaScript
 
-<sub>React · Tailwind CSS</sub>
-
-<br><br>
-
-<sub>
-Responsive product landing page inspired by Apple's visual language, built with reusable React components, product sections, specifications and smooth transitions.
-</sub>
-
-<br><br>
-
-<a href="https://fabioalx29.github.io/Projeto-React-Tailwind/">
-<strong>Live Demo →</strong>
-</a>
+<a href="https://fabioalx29.github.io/Projeto-React-Tailwind/">Live Demo →</a>
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<td align="center" width="33%" valign="top">
-
-<a href="https://fabioalx29.github.io/Projeto-Hamburgueria/">
-<img src="./devburger.png" alt="DevBurger - burger shop" width="100%"/>
-</a>
-
-<br>
-
-<strong>🍔 DevBurger</strong>
-
-<br>
-
-<sub>React · Tailwind CSS · JavaScript</sub>
-
-<br><br>
-
-<sub>
-Responsive burger shop with a functional shopping cart, quantity management, dynamic total and checkout integration through WhatsApp.
-</sub>
-
-<br><br>
+### 🍔 DevBurger
 
 <a href="https://fabioalx29.github.io/Projeto-Hamburgueria/">
-<strong>Live Demo →</strong>
+<img src="./devburger.png" width="100%" alt="DevBurger project preview" />
 </a>
+
+**Interactive Restaurant Website**
+
+A responsive burger shop featuring a functional shopping cart, quantity management, dynamic price calculation and WhatsApp checkout integration.
+
+**Stack:** React · Tailwind CSS · JavaScript
+
+<a href="https://fabioalx29.github.io/Projeto-Hamburgueria/">Live Demo →</a>
 
 </td>
+<td width="50%" valign="top">
 
+### 🐶 Pet Shop App
+
+**Academic Mobile Application**
+
+A mobile application developed during my Systems Development program, simulating a pet shop platform.
+
+- Product catalog and search
+- Shopping cart
+- Responsible adoption form
+- Donations form
+
+**Stack:** React Native · Expo · JavaScript
+
+<a href="https://fabioalx29.github.io/portfolio/">Portfolio & Project Demo →</a>
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🐶 Academic Project — Pet Shop App
-
-A mobile application developed during my Systems Development course using **React Native and Expo**.
-
-The project simulates a pet shop platform and includes:
-
-- 🛍️ Accessories catalog
-- 🔎 Product search
-- 🛒 Shopping cart
-- 🐶 Responsible adoption form
-- ❤️ Donations form
-
-**Technologies:** React Native · Expo · JavaScript
-
-🎥 A demonstration video of the application is available on my portfolio:
-
-**Portfolio →** https://fabioalx29.github.io/Fabioalx-portifolio/#formacao
-
----
-
 ## 🛠️ Tech Stack
 
-### Front-End
+### Front-End Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" height="50"/>
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,vite" />
+</div>
 
-### Tools & Other Technologies
+### Tools & Workflow
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vite,nodejs,git,github,vscode,figma" height="50"/>
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs" />
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Improving
 
-- Advanced React concepts
-- TypeScript
-- API integration
-- Responsive interface development
-- React Native
+- React and TypeScript
+- API integration and data handling
+- Responsive design and accessibility
+- Reusable components and component architecture
+- React Native and mobile development
 - Clean and maintainable code
-- Better UI/UX practices
 
 ---
 
-## 🎯 What I Like to Build
+## 📊 GitHub Statistics
 
-I enjoy working on projects that combine:
+<div align="center">
 
-**Responsive Interfaces** · **Reusable Components** · **API Integration** · **Interactive Experiences** · **Clean Code**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fabioalx29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-I'm especially interested in projects where **design, functionality and code quality** come together.
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabioalx29&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabioalx29&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📬 Let's Talk
+## 🎯 My Focus
+
+Building digital experiences that combine:
+
+**Good Design** · **Responsive Interfaces** · **Reusable Components** · **Performance** · **Code Quality**
+
+I believe every project is an opportunity to learn, improve and build something better.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/fabio-alexsander-811b90358">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:fabioalexsander290990@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-334155?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://fabioalx29.github.io/Fabioalx-portifolio/">
-<img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://fabioalx29.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+
+<br><br>
+
+**Open to my first Front-End opportunity.**
+
+<sub>Always learning. Always building. Always improving.</sub>
 
 </div>
 
-<br>
-
-<p align="center">
-<sub>
-Looking for an internship or junior front-end opportunity — always open to learning, building and connecting.
-</sub>
-</p>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:1E40AF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:172554,100:2563EB&height=100&section=footer" />
