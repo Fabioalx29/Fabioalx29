@@ -156,26 +156,18 @@ A mobile application developed during my Systems Development program, simulating
 <div align="center">
 
 <a href="https://github.com/Fabioalx29">
-<img src="https://img.shields.io/github/followers/Fabioalx29?style=for-the-badge&logo=github&label=Followers&color=1E3A8A" />
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-172554?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/Fabioalx29?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/Fabioalx29">
-<img src="https://github-readme-stats.vercel.app/api?username=Fabioalx29&show_icons=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github" width="49%" />
-</a>
+**Building. Learning. Improving.**
 
-<a href="https://github.com/Fabioalx29">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabioalx29&layout=compact&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1" width="41%" />
-</a>
-
-<br><br>
-
-*Consistent learning. Continuous improvement.*
+<sub>Explore my repositories and follow my development journey.</sub>
 
 </div>
 
