@@ -5,16 +5,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+interfaces+one+detail+at+a+time;React+%7C+TypeScript+%7C+Tailwind+CSS;Focused+on+creating+better+web+experiences" />
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/fabio-alexsander-811b90358">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://fabioalx29.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:fabioalexsander290990@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -57,7 +57,7 @@ A weather application powered by the Open-Meteo API, featuring city search, curr
 
 **Stack:** React · TypeScript · Tailwind CSS · API
 
-<a href="https://fabioalx29.github.io/Projeto-Clima/">Live Demo →</a>
+<a href="https://fabioalx29.github.io/Projeto-Clima-/">Live Demo →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -78,6 +78,7 @@ A responsive product landing page inspired by Apple's visual language, featuring
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -123,14 +124,18 @@ A mobile application developed during my Systems Development program, simulating
 
 ### Front-End Development
 
-<div align="left">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,vite" />
+
 </div>
 
 ### Tools & Workflow
 
-<div align="left">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs" />
+
 </div>
 
 ---
@@ -151,7 +156,21 @@ A mobile application developed during my Systems Development program, simulating
 <div align="center">
 
 <a href="https://github.com/Fabioalx29">
-<img src="https://img.shields.io/badge/GitHub-Fabioalx29-172554?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/Fabioalx29?style=for-the-badge&logo=github&label=Followers&color=1E3A8A" />
+</a>
+
+<a href="https://github.com/Fabioalx29?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Fabioalx29">
+<img src="https://github-readme-stats.vercel.app/api?username=Fabioalx29&show_icons=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github" width="49%" />
+</a>
+
+<a href="https://github.com/Fabioalx29">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabioalx29&layout=compact&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1" width="41%" />
 </a>
 
 <br><br>
