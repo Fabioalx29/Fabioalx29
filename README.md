@@ -57,7 +57,7 @@ A modern travel discovery platform designed to explore destinations, discover ne
 
 **Stack:** React · TypeScript · React Leaflet · Open-Meteo · React Router
 
-<a href="https://fabioalx29.github.io/Projeto-Atlas/">Live Demo →</a> · <a href="https://github.com/Fabioalx29/Projeto-Atlas">GitHub Repository →</a>
+<a href="https://fabioalx29.github.io/Projeto-Atlas/">Live Demo →</a>
 
 </td>
 <td width="50%" valign="top">
