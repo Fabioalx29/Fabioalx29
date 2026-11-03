@@ -1,4 +1,4 @@
- <!-- HEADER -->
+<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:172554,100:2563EB&height=210&section=header&text=Fabio%20Alexsander&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=FRONT-END%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <div align="center">
@@ -45,6 +45,23 @@ I enjoy turning ideas into functional digital experiences, focusing on visual co
 <tr>
 <td width="50%" valign="top">
 
+### 🌍 Atlas
+
+<a href="https://fabioalx29.github.io/Projeto-Atlas/">
+<img src="./atlas.jpg.jpg" width="100%" alt="Atlas travel discovery platform preview" />
+</a>
+
+**Travel Discovery Platform**
+
+A modern travel discovery platform designed to explore destinations, discover new places, save favorite locations and organize upcoming trips through an intuitive experience.
+
+**Stack:** React · TypeScript · React Leaflet · Open-Meteo · React Router
+
+<a href="https://fabioalx29.github.io/Projeto-Atlas/">Live Demo →</a> · <a href="https://github.com/Fabioalx29/Projeto-Atlas">GitHub Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌦️ Weatherly
 
 <a href="https://fabioalx29.github.io/Projeto-Clima-/">
@@ -60,6 +77,9 @@ A weather application powered by the Open-Meteo API, featuring city search, curr
 <a href="https://fabioalx29.github.io/Projeto-Clima-/">Live Demo →</a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 📱 iPhone 17 Pro
@@ -77,9 +97,6 @@ A responsive product landing page inspired by Apple's visual language, featuring
 <a href="https://fabioalx29.github.io/Projeto-React-Tailwind/">Live Demo →</a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🍔 DevBurger
@@ -97,6 +114,9 @@ A responsive burger shop featuring a functional shopping cart, quantity manageme
 <a href="https://fabioalx29.github.io/Projeto-Hamburgueria/">Live Demo →</a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🐶 Pet Shop App
@@ -113,6 +133,9 @@ A mobile application developed during my Systems Development program, simulating
 **Stack:** React Native · Expo · JavaScript
 
 <a href="https://fabioalx29.github.io/portfolio/">Portfolio & Project Demo →</a>
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
