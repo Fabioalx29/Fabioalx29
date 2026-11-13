@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:172554,100:2563EB&height=210&section=header&text=Fabio%20Alexsander&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=FRONT-END%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" />
 
@@ -164,36 +163,6 @@ A mobile application developed during my Systems Development program, simulating
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- GITHUB STREAK -->
-<img width="95%" src="https://streak-stats.demolab.com?user=Fabioalx29&theme=transparent&hide_border=true&background=0B1120&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=94A3B8&stroke=1E3A8A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-<br/><br/>
-
-<!-- GITHUB STATS -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fabioalx29&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" />
-
-<!-- MOST USED LANGUAGES -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabioalx29&layout=compact&langs_count=6&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=C9D1D9" />
-
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<img width="95%" src="https://ghchart.rshah.org/2563eb/Fabioalx29" alt="GitHub Contributions" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/Fabioalx29?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB&labelColor=0B1120" />
-
-<img src="https://img.shields.io/github/stars/Fabioalx29?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=2563EB&labelColor=0B1120" />
-
-</div>
-
----
-
 ## 📚 Currently Improving
 
 - React and TypeScript
@@ -202,6 +171,30 @@ A mobile application developed during my Systems Development program, simulating
 - Reusable components and component architecture
 - React Native and mobile development
 - Clean and maintainable code
+
+---
+
+## ⚡ Developer Activity
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/2563eb/Fabioalx29" alt="GitHub Contributions" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/Fabioalx29?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB&labelColor=0D1117" />
+
+<img src="https://img.shields.io/github/stars/Fabioalx29?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=2563EB&labelColor=0D1117" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite,git" />
+
+<br><br>
+
+<sub>BUILDING DIGITAL EXPERIENCES · ONE COMMIT AT A TIME</sub>
+
+</div>
 
 ---
 
@@ -230,9 +223,3 @@ I believe every project is an opportunity to learn, improve and build something 
 <a href="https://fabioalx29.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:172554,100:2563EB&height=100&section=footer" />
-
-</div>
