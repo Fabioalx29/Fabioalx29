@@ -1,5 +1,10 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:172554,100:2563EB&height=210&section=header&text=Fabio%20Alexsander&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=FRONT-END%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" />
+
+<!-- CUSTOM DEVELOPER HEADER -->
+<div align="center">
+  <img width="100%" src="./header.svg" alt="Fabio Alexsander - Front-End Developer" />
+</div>
+
 
 <div align="center">
 
