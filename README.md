@@ -1,10 +1,12 @@
-<!-- HEADER -->
 
 <!-- CUSTOM DEVELOPER HEADER -->
 <div align="center">
-  <img width="100%" src="./header.svg" alt="Fabio Alexsander - Front-End Developer" />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/Fabioalx29/Fabioalx29/main/header.svg"
+    alt="Fabio Alexsander - Front-End Developer"
+  />
 </div>
-
 
 <div align="center">
 
@@ -15,9 +17,11 @@
 <a href="https://www.linkedin.com/in/fabio-alexsander-811b90358">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://fabioalx29.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+
 <a href="mailto:fabioalexsander290990@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
